@@ -48,7 +48,7 @@ end
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "Doge";
-    Text = "Doge has been loaded, Amnesia's Da Hood Farm modified by Doge!";
+    Text = "Doge has been unloaded, Amnesia's Da Hood Farm modified by Doge!";
     Duration = 5;
     Icon = "http://www.roblox.com/asset/?id=6858182517";
 })
